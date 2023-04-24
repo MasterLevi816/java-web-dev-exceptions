@@ -18,6 +18,7 @@ public class Main {
         // Test out your CheckFileExtension() function!
     }
 
+    /*
     public static void Divide(int x, int y)
     {
         // Write code here!
@@ -28,4 +29,6 @@ public class Main {
         // Write code here!
     }
 
+
+     */
 }
